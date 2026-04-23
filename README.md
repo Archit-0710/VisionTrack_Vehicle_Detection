@@ -17,14 +17,6 @@ A professional full-stack traffic monitoring system that processes uploaded traf
 
 ---
 
-## 📸 Screenshots
-
-| Dashboard | Config Panel |
-|---|---|
-| ![Dashboard](docs/dashboard.png) | ![Config](docs/config.png) |
-
----
-
 ## 🏗️ Architecture
 
 ```
