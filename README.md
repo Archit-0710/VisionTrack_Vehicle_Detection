@@ -208,19 +208,16 @@ Open **3 terminal windows**:
 
 **Terminal 1 — Python CV Service**
 ```powershell
-cd a:\padhai_related\vit\projects\mv\python-service
 python -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
 **Terminal 2 — Node.js Gateway**
 ```powershell
-cd a:\padhai_related\vit\projects\mv\backend
 npx ts-node-dev --respawn --transpile-only src/server.ts
 ```
 
 **Terminal 3 — React Frontend**
 ```powershell
-cd a:\padhai_related\vit\projects\mv\frontend
 npm run dev
 ```
 
