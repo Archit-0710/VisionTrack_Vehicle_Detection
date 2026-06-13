@@ -178,7 +178,7 @@ mv/
 ### 1. Clone / Open the Project
 
 ```powershell
-cd a:\padhai_related\vit\projects\mv
+cd to the project directory
 ```
 
 ### 2. Install Python Dependencies
